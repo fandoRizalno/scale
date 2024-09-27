@@ -51,3 +51,6 @@ Press F5 or select Run > Start Debugging to run your application.
 You can also open the Command Palette with Ctrl+Shift+P and type "Flutter: Select Device" to choose a device or "Flutter: Run" to start the application.
 
 
+# your approach and any decisions 
+
+I use the getX state management approach with the Getx_pattern structure
